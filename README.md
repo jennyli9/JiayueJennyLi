@@ -51,9 +51,9 @@ Creative Computing applications such as [Meme Studio](https://www.meme-studio.io
 <img width="704" alt="Screenshot 2021-11-19 at 03 21 36" src="https://user-images.githubusercontent.com/94368801/142559454-627ef71f-371b-451b-b5f3-9d59588cd2f3.png">
 
 Memes shouldn't be seen as arbitrary or silly but rather should be acknowledged and possibly utilised for its ability to encapsulate our everyday realities into simple imagery and a line of text and providing a creative space to those who otherwise wouldn't tap into that side of their brains. 🧠 
-Now go and make some quality memes, who knows, it might become a sought-after NFT one day like the "Side-eye Chloe."
+Now go and make some quality memes, who knows what power it could hold one day!
 
-![chloe side eye nft](https://user-images.githubusercontent.com/94368801/142559837-bfe34d14-9f3d-4f27-893d-095e60cc284c.png)
+
 
 Some extra reading for you 💗
 - [UCSB Memes: When Language and Culture go Viral](https://www.coursicle.com/ucsb/courses/LING/135)
