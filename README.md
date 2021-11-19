@@ -12,7 +12,7 @@ In the initial stages of this project, I found it quite t**Rick**y to manoeuvre 
 https://user-images.githubusercontent.com/94368801/142560246-3ecc6dac-b61a-430e-af77-397589729a14.mp4
 
 
-Through many trials and tribulations, I was able to explore the creation of 🔈 sound 🔊 using the Piezo and thus lead me to programming the arduino to play a 🎵 song 🎹. 
+Through many trials and tribulations and countless hours spent watching [tutorials](https://create.arduino.cc/projecthub/infoelectorials/project-016-arduino-christmas-piezo-buzzer-project-ff7414) online, I was able to explore the creation of 🔈 sound 🔊 using the Piezo and thus lead me to programming the arduino to play a 🎵 song 🎹. Luckily, there are many resources online with the code already made for creating arduino songs so it was relatively easy to manipulate what was already available to create what I wanted (another great benefit of creative computing with arduino!).
 
 - _You can find instructions on how to set up your Arduino Board [here](https://github.com/jennyli9/JiayueJennyLi/blob/5800e7be72c01e0a53686e56ac23ab57e271f6b0/Arduino%20set%20up.png)_
 - _You can find the coding for the song [here](https://github.com/jennyli9/JiayueJennyLi/blob/29fbdef447652d3c7207e23c10d35b28ddd1a7f4/Arduino_Song.ino)._
